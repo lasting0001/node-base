@@ -1,0 +1,1 @@
+cnpm install --save "MD5" & cnpm install --save  "art-template" & cnpm install --save "log4js" & cnpm install --save "mysql" & cnpm install --save "lasting0001/node-exec" & npm install --save  "lasting0001/node-rocket-cache" & cnpm install --save "redis" & cnpm install --save "xmlreader" & cnpm install --save "lasting0001/async-exec"
